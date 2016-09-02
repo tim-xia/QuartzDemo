@@ -25,7 +25,7 @@ namespace QuartzDemo
                 IScheduler scheduler = factory.GetScheduler();
 
                 //首次执行时间设定
-                DateTime dateTime = TriggerUtils.GetNextGivenSecondDate(null, 10);
+                DateTime dateTime = TriggerUtils.GetNextGivenSecondDate(null, 8);
 
                 //执行时间间隔
                 TimeSpan timeSpan = TimeSpan.FromSeconds(10);

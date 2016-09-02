@@ -34,11 +34,11 @@
   <ItemGroup>
     <Reference Include="Common.Logging, Version=1.2.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\Common.Logging.dll</HintPath>
+      <HintPath>C:\源代码管理器（易果）\学习项目\QuartzDemo\QuartzDemo\bin\Debug\Common.Logging.dll</HintPath>
     </Reference>
     <Reference Include="Quartz, Version=1.0.2.3, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\Quartz.dll</HintPath>
+      <HintPath>C:\源代码管理器（易果）\学习项目\QuartzDemo\QuartzDemo\bin\Debug\Quartz.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
